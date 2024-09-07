@@ -75,7 +75,7 @@ The `main.py` file is the entry point of the application. It:
 4. After executing all steps, it generates a conclusion.
 5. Based on the conclusion, it either continues with a new directive or completes the task.
 
-## FLowchart
+## Flowchart
 
 ```mermaid
 graph TD
