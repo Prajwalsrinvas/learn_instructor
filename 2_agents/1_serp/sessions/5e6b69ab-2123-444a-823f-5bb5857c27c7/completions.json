@@ -1,0 +1,182 @@
+[
+  {
+    "id": "chatcmpl-A2EqDgQlMWikMnszjNQkm4UThnawF",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "function_call": null,
+          "tool_calls": [
+            {
+              "id": "call_1tcxcImGWz68uhaxuU2hWluS",
+              "function": {
+                "arguments": "{\"steps\":[{\"step\":\"Search for the core product of Rabbit Inc and its founder(s).\",\"tool\":\"search_on_internet\",\"rationale\":\"To obtain the latest information about Rabbit Inc's products and founders.\"},{\"step\":\"Search for the core product of Humane Inc and its founder(s).\",\"tool\":\"search_on_internet\",\"rationale\":\"To gather current information regarding Humane Inc's offerings and its founders.\"},{\"step\":\"Search for the core product of Perplexity AI and its founder(s).\",\"tool\":\"search_on_internet\",\"rationale\":\"To find up-to-date details about Perplexity AI's product and founding team.\"}]}",
+                "name": "Plan"
+              },
+              "type": "function"
+            }
+          ]
+        }
+      }
+    ],
+    "created": 1725097069,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": "fp_f905cf32a9",
+    "usage": {
+      "completion_tokens": 131,
+      "prompt_tokens": 238,
+      "total_tokens": 369
+    }
+  },
+  {
+    "id": "chatcmpl-A2EqF0rlH2flDVcNEpSJB7jbOkGXU",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "function_call": null,
+          "tool_calls": [
+            {
+              "id": "call_7h9o9pha5lmPHOagOWy3eLqj",
+              "function": {
+                "arguments": "{\"query\":\"core products and founders of Rabbit Inc, Humane Inc, and Perplexity AI\"}",
+                "name": "DynamicToolModel"
+              },
+              "type": "function"
+            }
+          ]
+        }
+      }
+    ],
+    "created": 1725097071,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": "fp_9722793223",
+    "usage": {
+      "completion_tokens": 20,
+      "prompt_tokens": 230,
+      "total_tokens": 250
+    }
+  },
+  {
+    "id": "chatcmpl-A2EqIG9mBD5wo9kPdPnQMsPsb98QO",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "function_call": null,
+          "tool_calls": [
+            {
+              "id": "call_5blE6YXng6Q6fWkMoHK6aURs",
+              "function": {
+                "arguments": "{\"query\":\"core product and founder(s) of Rabbit Inc, Humane Inc, and Perplexity AI.\"}",
+                "name": "DynamicToolModel"
+              },
+              "type": "function"
+            }
+          ]
+        }
+      }
+    ],
+    "created": 1725097074,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": "fp_f33667828e",
+    "usage": {
+      "completion_tokens": 23,
+      "prompt_tokens": 230,
+      "total_tokens": 253
+    }
+  },
+  {
+    "id": "chatcmpl-A2EqMdX0CbK5oKyOeq38BFHrPsKqd",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "function_call": null,
+          "tool_calls": [
+            {
+              "id": "call_EoeiSC1ezhkWrO9cnCCLzEAT",
+              "function": {
+                "arguments": "{\"query\":\"What is the core product and who are the founders of Rabbit Inc, Humane Inc, and Perplexity AI?\"}",
+                "name": "DynamicToolModel"
+              },
+              "type": "function"
+            }
+          ]
+        }
+      }
+    ],
+    "created": 1725097078,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": "fp_f33667828e",
+    "usage": {
+      "completion_tokens": 27,
+      "prompt_tokens": 236,
+      "total_tokens": 263
+    }
+  },
+  {
+    "id": "chatcmpl-A2EqQIxtw4gWEqoSRzP5FghJxBUM9",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "function_call": null,
+          "tool_calls": [
+            {
+              "id": "call_8O5ak8UISb0RpZET2ROJ7OQJ",
+              "function": {
+                "arguments": "{\"conclusion\":\"The core products and founders of the companies are as follows: \\n\\n### Rabbit Inc\\n- **Core Product**: The Rabbit R1, a handheld AI device designed to interact with users through verbal commands and perform tasks for them. \\n- **Founder(s)**: Jesse Lyu.\\n\\n### Humane Inc\\n- **Core Product**: While specific details are currently limited, it is indicated they are working on an AI device termed the \\\"AI Pin\\\" that aims to be an innovative tool for personal assistance. \\n- **Founder(s)**: The founders of Humane, Inc. are Imran Chaudhri and Bethany Bongiorno.\\n\\n### Perplexity AI\\n- **Core Product**: An AI \\\"answer engine\\\" that can understand natural language queries and provide relevant responses in real-time.\\n- **Founder(s)**: The details about the specific founders at this time were not extracted, but the product is prevalent in various AI discussions. \\n\\nAdditional research may be needed for the most accurate and updated information.\",\"continue_agent\":false}",
+                "name": "Conclusion"
+              },
+              "type": "function"
+            }
+          ]
+        }
+      }
+    ],
+    "created": 1725097082,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": "fp_f33667828e",
+    "usage": {
+      "completion_tokens": 223,
+      "prompt_tokens": 4297,
+      "total_tokens": 4520
+    }
+  }
+]

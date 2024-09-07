@@ -1,0 +1,31 @@
+question,category,predicted_category
+When will my order be delivered?,"Shipping, Order Management","Shipping, Order Management"
+How do I return an item that doesn't fit?,"Returns, Product Information","Returns, Order Management"
+Is this product available in blue?,Product Information,Product Information
+My discount code isn't working. What should I do?,"Promotions, Technical Support","Promotions, Technical Support"
+Can I change my shipping address after placing an order?,"Order Management, Shipping","Shipping, Order Management"
+How do I track my package?,"Shipping, Order Management","Shipping, Order Management"
+Are your products cruelty-free?,Product Information,Product Information
+I received a damaged item. What are the next steps?,"Returns, Order Management","Returns, Order Management"
+Do you offer international shipping?,"Shipping, Product Information",Shipping
+How can I cancel my subscription?,Order Management,Order Management
+What's your refund policy for sale items?,"Returns, Promotions",Returns
+Is it possible to expedite my order?,"Shipping, Order Management","Order Management, Shipping"
+How do I reset my password?,Technical Support,Technical Support
+Do you have a size guide for clothing?,Product Information,Product Information
+Can I combine multiple promotional codes?,"Promotions, Technical Support",Promotions
+I'm having trouble uploading my product review. Is there a file size limit for photos?,"Technical Support, Product Information","Technical Support, Product Information"
+I ordered a gift and forgot to include a gift message. Can I add one now?,Order Management,Order Management
+I'm allergic to certain materials. Can you provide detailed fabric composition information?,Product Information,Product Information
+I've noticed that the price of an item I purchased last week has now decreased. Do you offer price adjustments?,"Promotions, Order Management","Order Management, Promotions"
+How can I ensure I'm subscribed to your newsletter?,"Technical Support, Promotions","Promotions, Product Information"
+Do you offer wholesale prices for bulk orders?,"Product Information, Promotions","Product Information, Promotions"
+I accidentally created two accounts. Can these be merged?,"Technical Support, Order Management","Technical Support, Order Management"
+The 'Add to Cart' button isn't working on your website. Is there a known issue?,Technical Support,Technical Support
+Do you price match with other retailers?,"Promotions, Product Information","Product Information, Promotions"
+Can I schedule a specific delivery time for my order?,"Shipping, Order Management","Shipping, Order Management"
+How do I apply for your loyalty program?,"Promotions, Order Management",Promotions
+What's the difference between your standard and premium product lines?,Product Information,Product Information
+I received the wrong item in my order. How do I get this corrected?,"Returns, Order Management","Order Management, Returns"
+Is it safe to save my payment information on your website?,"Technical Support, Order Management",Technical Support
+Do you offer gift wrapping services?,"Product Information, Order Management","Shipping, Product Information"
