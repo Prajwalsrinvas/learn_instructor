@@ -13,6 +13,7 @@ This project explores various aspects of building LLM-based applications using t
    - [SERP (Search Engine Results Page) agent](2_agents/1_serp)
    - [Financial analyst agent](2_agents/2_financial_analyst)
    - [Knowledge graph creation](2_agents/3_knowledge_graphs)
+   - [Logical Reasoner](2_agents/4_logical_reasoner/logical_reasoner.ipynb)
 
 ## Resources and Documentation
 
